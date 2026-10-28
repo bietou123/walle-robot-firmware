@@ -1,0 +1,13 @@
+*
+!.gitignore
+!README.md
+!LICENSE
+!firmware/
+firmware/*
+!firmware/*.h
+!firmware/*.ino
+!hardware/
+hardware/*
+!hardware/pcb/
+hardware/pcb/*
+!hardware/pcb/schematic_netlist.md
